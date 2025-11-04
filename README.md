@@ -19,7 +19,7 @@ This is a simple RESTful API for managing tasks, built with Node.js and Express.
     bash
     npm start
     
-    The server will be running at http://localhost:3000.
+    The server will be running at http://localhost:5000.
 
 ## API Endpoints
 
